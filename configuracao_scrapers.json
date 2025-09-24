@@ -1,0 +1,306 @@
+{
+  "carazzaimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://carazzaimoveis.com.br"
+  },
+  "chavescorretora.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://chavescorretora.com.br"
+  },
+  "imobiliarialider.imb.br": {
+    "container_anuncio": ".group.relative.min-w-[280px].max-w-[320px].w-full.mx-2.bg-[#F5F8FC].rounded-lg.shadow-sm.transition-shadow.duration-200",
+    "preco": ".mt-2 .ant-skeleton-title",
+    "endereco": ".ant-skeleton-title",
+    "descricao": ".mb-2 .ant-skeleton-content",
+    "proxima_pagina": null,
+    "url_busca": "https://imobiliarialider.imb.br"
+  },
+  "imobiliariatrindadesjdr.com.br": {
+    "container_anuncio": ".property-grid-1",
+    "preco": ".price-on",
+    "endereco": ".property_text span:nth-child(3) b",
+    "descricao": ".property_text",
+    "proxima_pagina": null,
+    "url_busca": "https://imobiliariatrindadesjdr.com.br"
+  },
+  "pronttoimoveis.com.br": {
+    "container_anuncio": ".item",
+    "preco": ".label.price",
+    "endereco": ".property-thumb-info-content h2 a",
+    "descricao": ".property-thumb-info-content p",
+    "proxima_pagina": null,
+    "url_busca": "https://pronttoimoveis.com.br"
+  },
+  "saviocorretor.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://saviocorretor.com.br"
+  },
+  "tolentinosuaimobiliaria.com.br": {
+    "container_anuncio": ".epl-listing-post",
+    "preco": ".price .price-number",
+    "endereco": ".property-address .entry-title-sub",
+    "descricao": null,
+    "proxima_pagina": ".real_button.real_style_01",
+    "url_busca": "https://tolentinosuaimobiliaria.com.br"
+  },
+  "wallaceimoveis.com": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://wallaceimoveis.com"
+  },
+  "www.imobiliarialider.imb.br": {
+    "container_anuncio": ".group.relative.min-w-[280px].max-w-[320px].w-full.mx-2.bg-[#F5F8FC].rounded-lg.shadow-sm.transition-shadow.duration-200",
+    "preco": ".mt-2.flex.items-center.justify-between > div:first-child > div > h3",
+    "endereco": null,
+    "descricao": ".ant-skeleton-active.mb-2 > div > h3",
+    "proxima_pagina": null,
+    "url_busca": "https://www.imobiliarialider.imb.br"
+  },
+  "www.investimoveissjdr.com.br": {
+    "container_anuncio": ".destaqueHome54",
+    "preco": ".valor h4",
+    "endereco": ".bairro h3",
+    "descricao": ".tipo h3",
+    "proxima_pagina": null,
+    "url_busca": "https://www.investimoveissjdr.com.br"
+  },
+  "www.marcelolisboacorretor.com.br": {
+    "container_anuncio": ".caption.sfl.slider-subtitle",
+    "preco": "font",
+    "endereco": null,
+    "descricao": null,
+    "proxima_pagina": null,
+    "url_busca": "https://www.marcelolisboacorretor.com.br"
+  },
+  "www.ronylimaimoveis.com.br": {
+    "container_anuncio": ".listing",
+    "preco": ".rate span",
+    "endereco": ".address:first-of-type",
+    "descricao": ".listing-body",
+    "proxima_pagina": null,
+    "url_busca": "https://www.ronylimaimoveis.com.br"
+  },
+  "danieloliveiracorretor.com.br": {
+    "container_anuncio": ".property-listing",
+    "preco": ".property-price",
+    "endereco": ".property-address",
+    "descricao": ".property-description",
+    "proxima_pagina": ".pagination .next",
+    "url_busca": "https://danieloliveiracorretor.com.br"
+  },
+  "flaviovitorimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": ".proxima-pagina",
+    "url_busca": "https://flaviovitorimoveis.com.br"
+  },
+  "imobiliariadavin.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://imobiliariadavin.com.br"
+  },
+  "imoveislee.com.br": {
+    "container_anuncio": ".item-anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://imoveislee.com.br"
+  },
+  "marcelocorretordeimoveis.com": {
+    "container_anuncio": ".elementor-grid-item",
+    "preco": ".elementor-widget-container > h3",
+    "endereco": ".elementor-widget-container > p",
+    "descricao": ".elementor-widget-container > ul",
+    "proxima_pagina": null,
+    "url_busca": "https://marcelocorretordeimoveis.com"
+  },
+  "ostinhocorretor.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://ostinhocorretor.com.br"
+  },
+  "priscilafonsecaimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://priscilafonsecaimoveis.com.br"
+  },
+  "terradosimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": ".proxima-pagina",
+    "url_busca": "https://terradosimoveis.com.br"
+  },
+  "www.alfaimoveisbq.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://www.alfaimoveisbq.com.br"
+  },
+  "www.guilhermeaugustoimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://www.guilhermeaugustoimoveis.com.br"
+  },
+  "www.immobile.imb.br": {
+    "container_anuncio": ".ImovelCard_cardDestaque__M1Za0",
+    "preco": null,
+    "endereco": ".ImovelCardInfo_colorOfLocalization__frnmZ",
+    "descricao": ".ImovelCard_comodidades__mFht2",
+    "proxima_pagina": null,
+    "url_busca": "https://www.immobile.imb.br"
+  },
+  "www.maisimoveispraiagrande.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://www.maisimoveispraiagrande.com.br"
+  },
+  "www.teto-imoveis.com": {
+    "container_anuncio": ".anuncio",
+    "preco": ".anuncio__preco",
+    "endereco": ".anuncio__endereco",
+    "descricao": ".anuncio__descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://www.teto-imoveis.com"
+  },
+  "alvoradaimoveis.imb.br": {
+    "container_anuncio": ".area-container",
+    "preco": ".price-wrap .price .semi-bold",
+    "endereco": ".code-address p:nth-child(2)",
+    "descricao": "h3 span",
+    "proxima_pagina": null,
+    "url_busca": "https://alvoradaimoveis.imb.br"
+  },
+  "chaleimoveisbq.com.br": {
+    "container_anuncio": ".elementor-element.elementor-widget.elementor-widget-jet-listing-grid",
+    "preco": ".jet-listing-grid__price",
+    "endereco": ".jet-listing-grid__address",
+    "descricao": ".jet-listing-grid__excerpt",
+    "proxima_pagina": null,
+    "url_busca": "https://chaleimoveisbq.com.br"
+  },
+  "habitarbarbacena.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": ".proxima-pagina",
+    "url_busca": "https://habitarbarbacena.com.br"
+  },
+  "imobiliariabqhouse.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://imobiliariabqhouse.com.br"
+  },
+  "imobiliariasiqueira.com.br": {
+    "container_anuncio": ".card-imovel",
+    "preco": ".card-body strong",
+    "endereco": ".card-body .text-cinza",
+    "descricao": null,
+    "proxima_pagina": null,
+    "url_busca": "https://imobiliariasiqueira.com.br"
+  },
+  "imoveisam.com.br": {
+    "container_anuncio": ".listing-item",
+    "preco": ".price",
+    "endereco": ".title a",
+    "descricao": "p",
+    "proxima_pagina": null,
+    "url_busca": "https://imoveisam.com.br"
+  },
+  "jabrao.com.br": {
+    "container_anuncio": ".elementor-grid-item",
+    "preco": ".elementor-listing-price",
+    "endereco": ".elementor-listing-address",
+    "descricao": ".elementor-listing-description",
+    "proxima_pagina": null,
+    "url_busca": "https://jabrao.com.br"
+  },
+  "www.barbacenaimoveis.com.br": {
+    "container_anuncio": ".anuncio",
+    "preco": ".preco",
+    "endereco": ".endereco",
+    "descricao": ".descricao",
+    "proxima_pagina": null,
+    "url_busca": "https://www.barbacenaimoveis.com.br"
+  },
+  "www.dbimoveis.cim.br": {
+    "container_anuncio": ".card",
+    "preco": ".card-img-top",
+    "endereco": ".card-block",
+    "descricao": ".card-block",
+    "proxima_pagina": null,
+    "url_busca": "https://www.dbimoveis.cim.br"
+  },
+  "www.imobiliariadamasceno.com.br": {
+    "container_anuncio": ".property-listing",
+    "preco": ".property-price",
+    "endereco": ".property-address",
+    "descricao": ".property-description",
+    "proxima_pagina": ".pagination .next",
+    "url_busca": "https://www.imobiliariadamasceno.com.br"
+  },
+  "www.imoveis-otto.com.br": {
+    "container_anuncio": ".box_detalhes",
+    "preco": ".desc_box p span",
+    "endereco": ".desc_box p strong",
+    "descricao": ".desc_box p:nth-child(2)",
+    "proxima_pagina": null,
+    "url_busca": "https://www.imoveis-otto.com.br"
+  },
+  "www.machadoimoveisbarbacena.com.br": {
+    "container_anuncio": ".about__col",
+    "preco": ".about__image__valor",
+    "endereco": ".about__image__local",
+    "descricao": ".about__image__features",
+    "proxima_pagina": null,
+    "url_busca": "https://www.machadoimoveisbarbacena.com.br"
+  },
+  "www.mrimoveis.com.br": {
+    "container_anuncio": ".w-container",
+    "preco": ".text-block",
+    "endereco": ".text-block-2",
+    "descricao": ".text-block-3",
+    "proxima_pagina": null,
+    "url_busca": "https://www.mrimoveis.com.br"
+  }
+}

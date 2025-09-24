@@ -1,0 +1,19 @@
+Relatório de Erros - Robô Extrator Mestre
+========================================
+imobiliarialider.imb.br - Erro de sintaxe no seletor '.group.relative.min-w-[280px].max-w-[320px].w-full.mx-2.bg-[#F5F8FC].rounded-lg.shadow-sm.transition-shadow.duration-200'.
+imobiliariatrindadesjdr.com.br - Lembrete: Paginação não configurada.
+pronttoimoveis.com.br - Lembrete: Paginação não configurada.
+tolentinosuaimobiliaria.com.br - Erro inesperado durante a navegação: 'NoneType' object has no attribute 'replace'
+www.imobiliarialider.imb.br - Erro de sintaxe no seletor '.group.relative.min-w-[280px].max-w-[320px].w-full.mx-2.bg-[#F5F8FC].rounded-lg.shadow-sm.transition-shadow.duration-200'.
+www.investimoveissjdr.com.br - Lembrete: Paginação não configurada.
+www.marcelolisboacorretor.com.br - Erro inesperado durante a navegação: 'NoneType' object has no attribute 'replace'
+www.ronylimaimoveis.com.br - Lembrete: Paginação não configurada.
+www.immobile.imb.br - Erro inesperado durante a navegação: 'NoneType' object has no attribute 'replace'
+alvoradaimoveis.imb.br - Lembrete: Paginação não configurada.
+chaleimoveisbq.com.br - Lembrete: Paginação não configurada.
+imobiliariasiqueira.com.br - Erro inesperado durante a navegação: 'NoneType' object has no attribute 'replace'
+imoveisam.com.br - Lembrete: Paginação não configurada.
+jabrao.com.br - Lembrete: Paginação não configurada.
+www.dbimoveis.cim.br - Lembrete: Paginação não configurada.
+www.imoveis-otto.com.br - Lembrete: Paginação não configurada.
+www.machadoimoveisbarbacena.com.br - Lembrete: Paginação não configurada.

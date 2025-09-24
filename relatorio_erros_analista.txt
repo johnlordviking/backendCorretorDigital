@@ -1,0 +1,22 @@
+Relatório de Erros - Robô Analista com IA
+========================================
+https://barbacena.mylinq.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://guardiance.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://haroldoromanimoveis.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://imobiliariaresende.imb.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://imoveis.trovit.com.br - Erro ao buscar a URL: 401 Client Error: Unauthorized for url: https://imoveis.trovit.com.br/
+https://loft.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://luispaivacorretor.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://rapenteimoveis.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.123i.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': "meta[name='next']"}
+https://www.arboimoveis.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.casamineira.com.br - Erro ao buscar a URL: 403 Client Error: Forbidden for url: https://www.casamineira.com.br/
+https://www.chavesnamao.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.conquistaimoveisbq.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.dinamicaimobiliarialag.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.getninjas.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.inovar-imoveis.com - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.iriodiascorretor.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.longattiimoveis.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.mrimoveisbq.com.br - A IA não retornou uma configuração válida. Resposta: {'container_anuncio': None, 'preco': None, 'endereco': None, 'descricao': None, 'proxima_pagina': None}
+https://www.wimoveis.com.br - Erro ao buscar a URL: 403 Client Error: Forbidden for url: https://www.wimoveis.com.br/
