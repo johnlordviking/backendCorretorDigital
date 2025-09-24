@@ -2,12 +2,11 @@
 from googlesearch import search
 import time
 from urllib.parse import urlparse
-import sys
 
 # --- CONFIGURAÇÃO ---
+cidade = "São João del-Rei"
 num_resultados_por_busca = 50
 # --------------------
-
 
 # Palavras-chave positivas que indicam um site de imobiliária
 PALAVRAS_CHAVE_INCLUIR = ["imoveis", "imobiliaria", "corretor", "creci", "aluguel", "venda", "lançamentos"]
@@ -23,20 +22,12 @@ DOMINIOS_PARA_IGNORAR = [
     "guiamais", "jusbrasil", "gov.br", "prefeitura", "econodata"
 ]
 
-if __name__ == "__main__": # Adicione essa verificação
-    # 2. SUBSTITUA A LINHA 'cidade = ...' POR ESTE BLOCO
-    if len(sys.argv) > 1:
-        cidade = sys.argv[1]
-    else:
-        print("Erro: Forneça o nome da cidade como argumento.")
-        print("Exemplo: python 1_buscar_sites.py \"São João del-Rei\"")
-        exit()
-
-    queries = [
-        f'site imobiliária "{cidade}" MG {PALAVRAS_CHAVE_EXCLUIR_QUERY}',
-        f'imóveis à venda em "{cidade}" {PALAVRAS_CHAVE_EXCLUIR_QUERY}',
-        f'corretor de imóveis site "{cidade}" {PALAVRAS_CHAVE_EXCLUIR_QUERY}'
-    ]
+# Buscas mais focadas
+queries = [
+    f'site imobiliária em "{cidade}" MG {PALAVRAS_CHAVE_EXCLUIR_QUERY}',
+    f'imóveis à venda em "{cidade}" {PALAVRAS_CHAVE_EXCLUIR_QUERY}',
+    f'corretor de imóveis site "{cidade}" {PALAVRAS_CHAVE_EXCLUIR_QUERY}'
+]
 
 print(f"🔎 Iniciando a busca refinada por sites de imobiliárias em {cidade}...")
 urls_encontradas = set()
